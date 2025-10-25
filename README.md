@@ -13,7 +13,7 @@ Quisiera agradecer a mis compañeros Juan Pablo Miguel Velazquez e Ivan Brito P�
 ## Autor
 Kacper Jasinski
 Correo de contacto: Kacperok201@gmail.com
-Teléfono de contacto: +34 692 255 986
+
 
 ## Página de GitHub de referencia.
 https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a
